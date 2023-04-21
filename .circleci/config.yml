@@ -1,6 +1,5 @@
 jobs:
-
- checkov:
+  checkov:
     machine: true
     steps:
       - checkout
